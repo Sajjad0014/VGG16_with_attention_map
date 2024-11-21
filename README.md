@@ -29,7 +29,7 @@ For those interested in learning more about the project, you can explore the fol
 - **Short Paper**: A concise overview of the methods and results of the
   project. [Short Paper](/resources/Short_Paper.pdf)
 - **Detailed Report**: A comprehensive report covering the methodology, experiments, and analysis in
-  detail. [Detailed Report](resources/Detailed%20Thesis%20Report.pdf)
+  detail. [Detailed Report](https://scholarworks.calstate.edu/concern/theses/d217qx65n)
 - **Research Paper**: A formal research article presented for academic or professional
   purposes. [Research Paper](resources/AIME_Attention_v1.pdf)
 
