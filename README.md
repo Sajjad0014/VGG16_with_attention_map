@@ -136,8 +136,9 @@ Visualizations should look something like this:
 
 The model was trained using the BraTS 2018 dataset and subsequently evaluated on a subset of patient data from the BraTS
 2019 dataset.
+To view the results on the BraTS 2018 test set, please refer to the [in-depth documentation](https://github.com/Sajjad0014/VGG16_with_attention_map/blob/main/README.md#in-depth-documentation).
 
-Below are the key insights derived from these evaluations:
+Below are the key insights derived from the evaluations on the BraTS 2019 dataset:
 
 - **High-Grade Gliomas (HGG)**: Predictions with F1-score = 74.2%
 - **Low-Grade Gliomas (LGG)**: Predictions with F1-score = 42.2%
